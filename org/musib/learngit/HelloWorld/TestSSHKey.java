@@ -4,7 +4,7 @@ public class TestSSHKey {
 
 	public static void main(String[] args) 
 	{
-		System.out.println(" SSH Added. ");
+		System.out.println(" SSH Added.. ");
 	}
 
 }
